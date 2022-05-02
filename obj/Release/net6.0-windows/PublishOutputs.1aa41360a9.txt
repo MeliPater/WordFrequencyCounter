@@ -1,0 +1,5 @@
+C:\Users\Nekrosante\source\repos\WordFreqCounter\bin\Publicar\WordFreqCounter.exe
+C:\Users\Nekrosante\source\repos\WordFreqCounter\bin\Publicar\WordFreqCounter.dll
+C:\Users\Nekrosante\source\repos\WordFreqCounter\bin\Publicar\WordFreqCounter.deps.json
+C:\Users\Nekrosante\source\repos\WordFreqCounter\bin\Publicar\WordFreqCounter.runtimeconfig.json
+C:\Users\Nekrosante\source\repos\WordFreqCounter\bin\Publicar\WordFreqCounter.pdb
