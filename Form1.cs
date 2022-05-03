@@ -73,7 +73,7 @@ namespace WordFreqCounter
                 textBox2.Text = contenido;//Texto
                 textBox1.Text = a;//Contador
             }
-            else { MessageBox.Show("Ruta Vacia, por favor intentar de nuevo"); }
+            else { MessageBox.Show("Ruta vacía, por favor seleccione un archivo"); }
 
         }
 
