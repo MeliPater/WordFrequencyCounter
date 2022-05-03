@@ -30,7 +30,7 @@ The algorithm should print the following output:
 Due to the nature of the functions implemented within the algorithm for the identification of characters and words (regular expressions and foreach) that are repeated periodically within the same execution of the algorithm, the complexity inherent in this algorithm grows exponentially as it increases the length and complexity of the examined text. This limitation reduces the scope of the algorithm to the extent that it is functionally practical for light tasks but inefficient in the face of extensive text, evidenced in resource consumption and long execution times.
 
 ## Resources
-- Visual Studio
+- Visual Studio (the created algorithm is found in the form1.cs file)
 - Test files .txt
 - C#
 
